@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1978 1855" width="1978" height="1855">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="651.347" y1="1855" x2="1326.652" y2="-0.384">
+			<stop offset="0" stop-color="#2d3749"  />
+			<stop offset="1" stop-color="#3d475e"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="263.029" y1="-0.384" x2="263.029" y2="1143.17">
+			<stop offset="0" stop-color="#475371"  />
+			<stop offset="1" stop-color="#38435a"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="1647.021" y1="936.108" x2="1647.021" y2="1613.719">
+			<stop offset="0" stop-color="#475371"  />
+			<stop offset="1" stop-color="#38435a"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { opacity: 0.651;fill: url(#grd2) } 
+		.shp2 { opacity: 0.6;fill: url(#grd3) } 
+	</style>
+	<path id="Прямоугольник 5" class="shp0" d="M0,-0.38v1855.38h1978v-1849.42c-244.36,71 -263.39,50.19 -463.06,6.42c-151.46,-33.2 -323.55,43.62 -549.64,44.05c-227.88,0.43 -278.34,-49.43 -391.88,-50.75c-82.39,-0.96 -221.28,50.93 -361.74,50.75c-108.01,-0.14 -193.99,-46.24 -211.68,-56.43z" />
+	<path id="Shape 21" class="shp1" d="M449.59,600.77c51.1,-56.47 88.45,-120.23 72.91,-199.02c-17.26,-87.56 -69.83,-169.53 -123.75,-239.07c-28,-36.11 -60.91,-73.73 -88.12,-113.9c-32.41,4.42 -65.64,7.31 -98.95,7.27c-108.01,-0.14 -193.99,-46.24 -211.68,-56.43v1101.49c198.95,143.44 370.66,-110.43 361.43,-302.31c-4.61,-95.91 23.55,-126.61 88.16,-198.02z" />
+	<path id="Shape 21" class="shp2" d="M1335.03,1326.25c-85.61,179.04 137.66,266.08 280.48,225.19c69.88,-20.01 97.39,-4.58 161.22,30.67c50.48,27.87 103.95,44.35 159.31,19.26c14.56,-6.6 28.53,-14.61 41.95,-23.66v-641.59c-117.95,1.22 -233.54,52.18 -330.94,112.02c-113.49,69.73 -252.28,153.15 -312.03,278.12z" />
+</svg>

@@ -1,0 +1,27 @@
+<svg width="112" height="115" viewBox="0 0 112 115" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="166" height="115">
+<rect x="1" y="1" width="164" height="112.647" rx="9" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="2.38672" y1="20.4961" x2="163.61" y2="20.4961" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="2.38672" y1="93.3457" x2="163.61" y2="93.3457" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="36.8281" y1="4.37114e-08" x2="36.8281" y2="20.2889" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="36.8281" y1="91.957" x2="36.8281" y2="112.246" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="54.7422" y1="1.19336" x2="54.7422" y2="21.4822" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="54.7422" y1="93.1504" x2="54.7422" y2="113.439" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="72.6562" y1="1.19336" x2="72.6562" y2="21.4822" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="72.6562" y1="93.1504" x2="72.6562" y2="113.439" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="90.5664" y1="1.19336" x2="90.5664" y2="21.4822" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="90.5664" y1="93.1504" x2="90.5664" y2="113.439" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="108.48" y1="4.37114e-08" x2="108.48" y2="20.2889" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="108.48" y1="91.957" x2="108.48" y2="112.246" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="126.395" y1="1.19336" x2="126.395" y2="21.4822" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="126.395" y1="93.1504" x2="126.395" y2="113.439" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="144.309" y1="4.37114e-08" x2="144.309" y2="20.2889" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="144.309" y1="91.957" x2="144.309" y2="112.246" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="18.9141" y1="2.38867" x2="18.9141" y2="20.3023" stroke="#3D0B1B" stroke-width="2"/>
+<line x1="18.9141" y1="94.3457" x2="18.9141" y2="112.259" stroke="#3D0B1B" stroke-width="2"/>
+<path d="M92.4142 57.6789C93.0209 58.0733 93.0209 58.9615 92.4142 59.3558L74.1992 71.1956C73.5339 71.628 72.6542 71.1506 72.6542 70.3572L72.6542 46.6776C72.6542 45.8841 73.5339 45.4067 74.1992 45.8391L92.4142 57.6789Z" stroke="#3D0B1B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</mask>
+<g mask="url(#mask0)">
+<rect y="-13" width="102" height="141" fill="#C05C7A" fill-opacity="0.76"/>
+</g>
+</svg>

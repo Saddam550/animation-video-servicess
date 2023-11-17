@@ -1,0 +1,275 @@
+
+.card-body {
+    border: 1px solid #2626268f;
+    border-radius: 34px;
+    margin: 20px 13px;
+}
+
+
+.body{
+    border: 1px solid #9d16168f;
+    border-radius: 34px;
+}
+
+h1.Choose_Your_Package {
+    margin: 118px 0px;
+    font-size: 38px;
+    position: relative;
+}
+
+/* h1.Choose_Your_Package:after {
+    content: '';
+    display: block;
+    position: absolute;
+    right: 0;
+    left: -1.5em;
+    bottom: -0.3em;
+    height: 0.125em;
+    border-radius: 3px;
+    background: linear-gradient(to right, #86cc44, #548624);
+} */
+
+.Choose_Your_Package span::after{
+    content: '';
+    display: block;
+    position: absolute;
+    border-radius: 3px;
+    background: linear-gradient(to right, #86cc44, #548624);
+    height: 7px;
+    width: 14%;
+    left: 53%;
+}
+
+
+
+.card-button  a {
+    background-color: rgb(134, 204, 68);
+    max-width: 250px;
+    font-size: 22px;
+    padding: 10px;
+    width: 100%;
+    transition: background-color 0.3s ease-in-out 0s;
+    border: 1px solid rgb(84, 134, 36);
+    box-shadow: rgb(0 0 0 / 20%) 0px 5px 9px;
+    line-height: 1.33333;
+    border-radius: 9999px;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+}
+
+
+.card-button  a:hover{
+    background-color: rgb(114, 182, 50);
+    color: white !important;
+    text-decoration: none;
+}
+
+
+
+
+.price-card {
+    background: url(../image/background/7.png);
+    display: table;
+    text-align: center !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 12px 0px 0px 0px;
+    width: 100%;
+}
+
+/* ===================== */
+.eqJDxT::after {
+    content: "";
+    display: block;
+    position: absolute;
+    right: -1.5em;
+    left: 0px;
+    bottom: -0.3em;
+    height: 0.125em;
+    border-radius: 3px;
+    background: linear-gradient(to right, rgb(134, 204, 68), rgb(84, 134, 36));
+}
+
+
+
+
+
+.card-title {
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.card-price {
+    font-weight: 500;
+    font-size: 28px;
+    margin: 18px;
+}
+
+.card-price sub {
+    font-weight: 900;
+    font-size: 37px;
+    margin: -2px;
+}
+
+
+.card-tow-title {
+    margin: 10px 1px;
+}
+
+.card-description {
+    display: block;
+    margin: 20px 0px;
+    list-style: none;
+    text-align: left;
+    padding-left: 0px;
+    font-size: 15px;
+}
+
+.card-hide_button {
+    padding: 5px 0px;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    left: 0%;
+    text-align: left;
+}
+
+.card-detils {
+    transition: max-height 0.3s ease-in-out 0s;
+    /* overflow: hidden; */
+    max-height: 160px;
+    display: contents;
+}
+
+.card-detils ul {
+    display: block;
+    margin: 20px 0px 0px;
+    list-style: none;
+    text-align: left;
+    padding-left: 0px;
+    font-size: 15px;
+}
+.card-description ul {
+    padding: 9px;
+    margin: 0px;
+}
+.card-detils ul li {
+    margin-bottom: 1em;
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.card-hide_button i{background: #3d720a;color: white;border-radius: 100%;padding: 4px 5px;margin: 0px 6px;}
+
+.card-detils ul li  i {
+    color: #86CC44;
+    margin: 0px 10px  0px 7px;
+}
+
+
+/* ========================================================================================
+ projact_cunter style  start
+======================================================================================== */
+
+
+.projact_cunter{
+    background:url("../image/background/number_counter_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: inherit;
+    background-attachment:fixed;
+}
+
+
+.projact_cunter .contant{
+   display: flex;
+   width: 100%;
+   height: 100%;
+   align-items: center;
+   justify-content: center;
+   flex-wrap: wrap;
+   background:linear-gradient(0deg, rgb(3 3 8 / 82%), rgb(26 25 96 / 82%));
+   }
+
+    
+.projact_cunter .contant .box{
+ text-align: center;
+ padding: 20px;
+ margin:23px 50px;
+ width: calc(16%);
+     }
+     .box span {
+        font-size: 35px;
+        font-weight: 900;
+    }
+    
+    .counter_conut {
+        display: inline-block;
+    }
+    
+
+     .counter_conut {
+        font-weight: bold;
+        letter-spacing: 2px;
+        font-size: 40px;
+    }
+    
+  
+    .counter_text {
+        color:#d1d1d1;
+        font-size: 13px;
+        text-transform:capitalize;
+    }
+    
+    .counter_icon {
+        color: #12e32d;
+        font-size: 60px;
+    }
+  .counter_icon img {
+        max-width: 43%;
+        margin-bottom: 13px;
+    }
+@media (max-width: 1036px) {
+    .projact_cunter .contant .box{
+
+        width: calc(19%);
+        margin: 16px;
+            }
+}
+
+
+@media (max-width: 768px) {
+    .projact_cunter .contant .box{
+
+        width: calc(30%);
+        margin: 21px;
+ 
+            }
+}
+
+
+@media (max-width: 425px) {
+    .projact_cunter .contant .box{
+
+        width: calc(35%);
+        margin: 14px;
+            }
+}
+@media (max-width:320px) {
+    .projact_cunter .contant .box{
+
+        width: calc(45%);
+        margin: 10px;
+            }
+}
+
+/* ========================================================================================
+ projact_cunter style  End
+======================================================================================== */

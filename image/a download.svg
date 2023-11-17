@@ -1,0 +1,17 @@
+<svg width="106" height="126" viewBox="0 0 106 126" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="107" height="126">
+<path d="M13 88.5V67.5V11C13 5.47715 17.4772 1 23 1H96C101.523 1 106 5.47715 106 11V102C106 107.523 101.523 112 96 112H56H38.5" stroke="#A3CFFE" stroke-width="2"/>
+<line x1="14" y1="20" x2="105" y2="20" stroke="#A3CFFE" stroke-width="2"/>
+<rect x="30" y="37" width="4" height="4" rx="2" fill="#A3CFFE"/>
+<rect x="30" y="53" width="4" height="4" rx="2" fill="#A3CFFE"/>
+<rect x="30" y="69" width="4" height="4" rx="2" fill="#A3CFFE"/>
+<rect x="38" y="38" width="52" height="2" rx="1" fill="#A3CFFE"/>
+<rect x="38" y="54" width="52" height="2" rx="1" fill="#A3CFFE"/>
+<rect x="38" y="70" width="52" height="2" rx="1" fill="#A3CFFE"/>
+<circle cx="20" cy="106" r="19" stroke="#A3CFFE" stroke-width="2"/>
+<path d="M13 105.333L18.7955 111L28 102" stroke="#A3CFFE" stroke-width="2" stroke-linecap="round"/>
+</mask>
+<g mask="url(#mask0)">
+<rect y="-14" width="94" height="152" fill="#A3CFFE" fill-opacity="0.4"/>
+</g>
+</svg>
